@@ -1,0 +1,7 @@
+services:
+  paper_cdn:
+    build: .
+    container_name: paper_cdn
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
