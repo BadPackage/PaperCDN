@@ -1,6 +1,6 @@
 # PaperCDN
 
-A simple Node.js server to fetch and cache the latest Minecraft Paper versions. **(Writen by ChatGPT)**
+A simple Node.js server to fetch the latest Paper versions. **(Writen by ChatGPT)**
 
 ## Usage
 
