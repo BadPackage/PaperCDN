@@ -29,4 +29,4 @@ A simple Node.js server to fetch the latest Paper versions. **(Writen by ChatGPT
      http://localhost:3000/download/paper/<version>
      ```
 
-   Replace `<version>` with the desired Minecraft Paper version number.
+   Replace `<version>` with the desired Minecraft Paper version number e.g.: 1.21.
